@@ -1,5 +1,5 @@
 ---
-title: [用 Python 理財：打造小資族選股策略] 簡介與環境架設
+title: 用 Python 理財：打造小資族選股策略-簡介與環境架設
 published: true
 ---
 ## 簡介
