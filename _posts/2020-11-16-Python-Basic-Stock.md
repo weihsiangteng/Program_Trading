@@ -15,7 +15,7 @@ published: true
 
 ## 習題1
 
-```python=
+```python
 """
 上課習題：
 
@@ -52,7 +52,7 @@ print(account)
 
 ## 習題2
 
-```python=
+```python
 """
 設計一個函數，叫做calculate_earning
 這個函數讀入買入價格、賣出價格、持有數量，並回傳獲利。
