@@ -7,11 +7,11 @@ published: true
 
 **買賣股票需要多少錢?**
 
-![](https://raw.githubusercontent.com/weihsiangteng/Program_Trading/gh-pages/image/2020-11-16_13-29.png)
+![](https://raw.githubusercontent.com/weihsiangteng/Program_Trading/gh-pages/image/2020-11-16-Python-Basic-Stock/2020-11-16_13-29.png)
 
 **摩擦成本 = 手續費 + 證交稅**
 
-![](https://raw.githubusercontent.com/weihsiangteng/Program_Trading/gh-pages/image/2020-11-16_13-30.png)
+![](https://raw.githubusercontent.com/weihsiangteng/Program_Trading/gh-pages/image/2020-11-16-Python-Basic-Stock/2020-11-16_13-30.png)
 
 ## 習題1
 
